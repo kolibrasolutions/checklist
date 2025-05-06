@@ -1,0 +1,108 @@
+{
+  "componente1": {
+    "nome": "Identidade Estratégica e Propósito",
+    "servicos": [
+      "Projeto de Fundamentação Estratégica de Marca",
+      "Consultoria de Naming e Tagline",
+      "Consultoria de Posicionamento Estratégico de Marca",
+      "Mentoria Estratégica para Líderes e Empreendedores",
+      "Workshop \"Método Kolibra 360 na Prática: Diagnóstico e Inovação\""
+    ]
+  },
+  "componente2": {
+    "nome": "Inteligência de Mercado e Cliente",
+    "servicos": [
+      "Análise de Jornada do Cliente",
+      "Workshop de Design de Proposta de Valor",
+      "Planejamento Estratégico de Conteúdo"
+    ]
+  },
+  "componente3": {
+    "nome": "Proposta de Valor e Oferta",
+    "servicos": [
+      "Workshop de Design de Proposta de Valor",
+      "Desenvolvimento e Otimização de Produtos e Serviços Digitais",
+      "Consultoria de Posicionamento Estratégico de Marca"
+    ]
+  },
+  "componente4": {
+    "nome": "Portfólio de Produtos e Serviços",
+    "servicos": [
+      "Website Institucional Estratégico e Moderno",
+      "Landing Pages de Alta Performance",
+      "Desenvolvimento de E-commerce (Loja Virtual)",
+      "Desenvolvimento de Sites de Agendamento Inteligente",
+      "Desenvolvimento de Micro SaaS e Aplicações Web Sob Medida",
+      "Plataformas de Conteúdo e Áreas de Membros",
+      "Consultoria em Gestão Financeira para Negócios Digitais"
+    ]
+  },
+  "componente5": {
+    "nome": "Estratégias de Marketing e Vendas",
+    "servicos": [
+      "Planejamento Estratégico de Conteúdo",
+      "Criação de Conteúdo Otimizado",
+      "Gestão Estratégica de Redes Sociais",
+      "Projeto de Otimização Estratégica para Instagram (Kolibra Impulso Digital)",
+      "Gestão Contínua de Performance para Instagram (Kolibra Performance Digital)",
+      "Gestão de Campanhas de Google Ads",
+      "Gestão de Campanhas de Meta Ads (Facebook e Instagram Ads)",
+      "Desenvolvimento de Campanhas Publicitárias com Visuais de Alto Impacto",
+      "Implementação de Automação de Marketing",
+      "Consultoria e Implementação de CRM",
+      "Website Institucional Estratégico e Moderno",
+      "Landing Pages de Alta Performance"
+    ]
+  },
+  "componente6": {
+    "nome": "Operações e Processos",
+    "servicos": [
+      "Desenvolvimento de Chatbots Inteligentes",
+      "Criação de Ferramentas de IA Personalizadas (Agentes e Prompts)",
+      "Consultoria em Automação Inteligente de Processos",
+      "Consultoria para Otimização de Processos Internos",
+      "Desenvolvimento de Sites de Agendamento Inteligente",
+      "Desenvolvimento de Micro SaaS e Aplicações Web Sob Medida"
+    ]
+  },
+  "componente7": {
+    "nome": "Construção de Marca e Comunicação",
+    "servicos": [
+      "Projeto de Fundamentação Estratégica de Marca",
+      "Criação de Logotipo Profissional e Identidade Visual Essencial",
+      "Consultoria de Naming e Tagline",
+      "Consultoria de Posicionamento Estratégico de Marca",
+      "Planejamento Estratégico de Conteúdo",
+      "Criação de Conteúdo Otimizado",
+      "Gestão Estratégica de Redes Sociais",
+      "Desenvolvimento de Campanhas Publicitárias com Visuais de Alto Impacto"
+    ]
+  },
+  "componente8": {
+    "nome": "Gestão Estratégica e Finanças",
+    "servicos": [
+      "Consultoria em Gestão Financeira para Negócios Digitais",
+      "Mentoria Estratégica para Líderes e Empreendedores",
+      "Workshop \"Método Kolibra 360 na Prática: Diagnóstico e Inovação\""
+    ]
+  },
+  "componente9": {
+    "nome": "Experiência do Cliente e Relacionamento",
+    "servicos": [
+      "Análise de Jornada do Cliente",
+      "Implementação de Automação de Marketing",
+      "Consultoria e Implementação de CRM",
+      "Desenvolvimento de Chatbots Inteligentes"
+    ]
+  },
+  "componente10": {
+    "nome": "Inovação e Adaptação",
+    "servicos": [
+      "Criação de Ferramentas de IA Personalizadas (Agentes e Prompts)",
+      "Consultoria em Automação Inteligente de Processos",
+      "Mentoria Estratégica para Líderes e Empreendedores",
+      "Workshop \"Método Kolibra 360 na Prática: Diagnóstico e Inovação\"",
+      "Desenvolvimento de Micro SaaS e Aplicações Web Sob Medida"
+    ]
+  }
+}

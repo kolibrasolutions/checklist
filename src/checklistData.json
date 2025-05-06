@@ -1,0 +1,450 @@
+[
+  {
+    "id": "componente1",
+    "nome": "Identidade Estratégica e Propósito",
+    "perguntas": [
+      {
+        "id": "p1_1",
+        "texto": "A empresa possui uma Missão claramente definida e documentada?",
+        "subTexto": "A equipe interna conhece e compreende a missão?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p1_2",
+        "texto": "A empresa possui uma Visão de futuro inspiradora e bem comunicada?",
+        "subTexto": "A visão orienta as decisões estratégicas de longo prazo?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p1_3",
+        "texto": "Os Valores fundamentais da empresa estão formalmente definidos e são praticados no dia a dia?",
+        "subTexto": "Os valores são considerados em processos de contratação e avaliação de desempenho?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p1_4",
+        "texto": "O Propósito maior da empresa (o \"porquê\" ela existe, além do lucro) é claro para os líderes e colaboradores?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p1_5",
+        "texto": "Como a identidade estratégica (missão, visão, valores, propósito) é comunicada interna e externamente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente2",
+    "nome": "Inteligência de Mercado e Cliente",
+    "perguntas": [
+      {
+        "id": "p2_1",
+        "texto": "Existe uma definição clara e detalhada do(s) público(s)-alvo/persona(s) da empresa?",
+        "subTexto": "Essa definição é baseada em pesquisa ou em suposições?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p2_2",
+        "texto": "A empresa compreende profundamente as dores, necessidades, desejos e comportamento de seus clientes ideais?",
+        "subTexto": "Existem processos para coletar e analisar essas informações regularmente?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p2_3",
+        "texto": "A empresa realiza análise da concorrência de forma sistemática?",
+        "subTexto": "São identificados os pontos fortes, fracos e diferenciais dos principais concorrentes?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p2_4",
+        "texto": "A empresa acompanha ativamente as tendências do seu setor de mercado?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p2_5",
+        "texto": "Existe um processo para coletar, analisar e agir com base no feedback dos clientes?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente3",
+    "nome": "Proposta de Valor e Oferta",
+    "perguntas": [
+      {
+        "id": "p3_1",
+        "texto": "A empresa possui uma Proposta de Valor Única (PVU) clara e concisa?",
+        "subTexto": "A PVU destaca claramente o que torna a empresa diferente e melhor para seus clientes?",
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p3_2",
+        "texto": "Os benefícios dos produtos/serviços são comunicados de forma eficaz e focada no cliente (e não apenas nas características)?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p3_3",
+        "texto": "Os diferenciais da empresa em relação à concorrência são claramente percebidos pelo mercado?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p3_4",
+        "texto": "A oferta de produtos/serviços está alinhada com as necessidades e expectativas do público-alvo identificado?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p3_5",
+        "texto": "A proposta de valor é consistente em todos os pontos de contato com o cliente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente4",
+    "nome": "Portfólio de Produtos e Serviços",
+    "perguntas": [
+      {
+        "id": "p4_1",
+        "texto": "O portfólio de produtos/serviços é apresentado de forma clara, organizada e fácil de entender pelos clientes?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p4_2",
+        "texto": "A precificação dos produtos/serviços é estratégica e considera valor percebido, custos e preços da concorrência?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p4_3",
+        "texto": "Os processos de entrega dos produtos/serviços são eficientes e garantem a satisfação do cliente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p4_4",
+        "texto": "A empresa analisa a rentabilidade de cada produto/serviço ou linha de produto/serviço?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p4_5",
+        "texto": "Existem produtos/serviços \"carro-chefe\" bem definidos? O portfólio possui ofertas complementares que aumentam o valor para o cliente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente5",
+    "nome": "Estratégias de Marketing e Vendas",
+    "perguntas": [
+      {
+        "id": "p5_1",
+        "texto": "A empresa possui um funil de marketing e vendas estruturado e compreendido pela equipe?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p5_2",
+        "texto": "Quais canais de marketing (online e offline) são utilizados? Qual o desempenho de cada um?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p5_3",
+        "texto": "A presença online (site, redes sociais, SEO, etc.) é profissional, consistente e otimizada para atrair e converter clientes?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p5_4",
+        "texto": "Existem estratégias eficazes para geração de leads qualificados?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p5_5",
+        "texto": "Como é o processo de vendas? (Desde a prospecção/abordagem inicial até a negociação e fechamento). Ele é eficiente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p5_6",
+        "texto": "A empresa utiliza métricas e KPIs para acompanhar e otimizar os resultados das ações de marketing e vendas?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente6",
+    "nome": "Operações e Processos",
+    "perguntas": [
+      {
+        "id": "p6_1",
+        "texto": "Os principais processos internos (produção, entrega, atendimento, administrativo, etc.) estão mapeados?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p6_2",
+        "texto": "Existe um nível adequado de padronização e documentação dos processos chave?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p6_3",
+        "texto": "A empresa utiliza ferramentas e tecnologias para otimizar seus processos e aumentar a eficiência?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p6_4",
+        "texto": "Foram identificados gargalos, ineficiências ou pontos de atrito nos processos atuais?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p6_5",
+        "texto": "Como é a gestão de tempo e recursos? Existem desperdícios?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p6_6",
+        "texto": "Qual o nível de automação de tarefas repetitivas ou operacionais?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente7",
+    "nome": "Construção de Marca e Comunicação",
+    "perguntas": [
+      {
+        "id": "p7_1",
+        "texto": "A identidade visual da marca (logotipo, cores, fontes, etc.) é aplicada de forma consistente em todos os materiais e pontos de contato?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p7_2",
+        "texto": "O tom de voz da marca é claro, adequado ao público e consistente em todas as comunicações?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p7_3",
+        "texto": "Qual o nível de reconhecimento e a percepção da marca pelo público-alvo e pelo mercado em geral?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p7_4",
+        "texto": "Existem estratégias definidas para a comunicação interna (com colaboradores) e externa (com clientes, parceiros, imprensa, etc.)?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p7_5",
+        "texto": "Como a empresa gerencia sua reputação online (avaliações, menções, etc.)?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente8",
+    "nome": "Gestão Estratégica e Finanças",
+    "perguntas": [
+      {
+        "id": "p8_1",
+        "texto": "A empresa realiza planejamento financeiro (orçamento, projeção de fluxo de caixa, etc.)?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p8_2",
+        "texto": "Existe um controle eficiente de custos e despesas?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p8_3",
+        "texto": "A rentabilidade e a lucratividade do negócio (e de seus produtos/serviços) são analisadas regularmente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p8_4",
+        "texto": "Quais indicadores financeiros chave (KPIs) são monitorados para a tomada de decisão?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p8_5",
+        "texto": "Existe um planejamento estratégico de longo prazo para o negócio, incluindo metas financeiras?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p8_6",
+        "texto": "As decisões estratégicas são tomadas com base em dados e análises financeiras?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente9",
+    "nome": "Experiência do Cliente e Relacionamento",
+    "perguntas": [
+      {
+        "id": "p9_1",
+        "texto": "A jornada do cliente (desde o primeiro contato até o pós-venda) está mapeada e compreendida pela empresa?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p9_2",
+        "texto": "Como é a qualidade do atendimento ao cliente em todos os canais de comunicação?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p9_3",
+        "texto": "Existem processos definidos para pós-venda e suporte ao cliente?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p9_4",
+        "texto": "A empresa possui estratégias ativas para fidelização de clientes?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p9_5",
+        "texto": "O feedback dos clientes sobre sua experiência é coletado sistematicamente e utilizado para melhorias?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p9_6",
+        "texto": "Qual o nível de satisfação e lealdade dos clientes (ex: NPS, taxa de recompra, depoimentos)?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  },
+  {
+    "id": "componente10",
+    "nome": "Inovação e Adaptação",
+    "perguntas": [
+      {
+        "id": "p10_1",
+        "texto": "Existem processos ou incentivos para a geração e implementação de novas ideias na empresa?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p10_2",
+        "texto": "A empresa fomenta uma cultura de aprendizado contínuo e experimentação?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p10_3",
+        "texto": "A empresa acompanha as tendências tecnológicas, de mercado e de comportamento do consumidor relevantes para o seu setor?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p10_4",
+        "texto": "Qual a flexibilidade e agilidade da empresa para se adaptar a mudanças no mercado ou nas necessidades dos clientes?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      },
+      {
+        "id": "p10_5",
+        "texto": "Há investimento (tempo ou recursos) no desenvolvimento de novos produtos/serviços ou na melhoria significativa dos existentes?",
+        "subTexto": null,
+        "status": "",
+        "observacoes": ""
+      }
+    ],
+    "observacoesGerais": ""
+  }
+]

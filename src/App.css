@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #1f2937;
+}
+
+/* Ajustes para os botões de rádio para melhor alinhamento e aparência */
+.form-radio {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 1.25em;
+  height: 1.25em;
+  border: 2px solid #60a5fa; /* Azul claro para a borda */
+  border-radius: 50%;
+  outline: none;
+  margin-right: 0.5em;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  vertical-align: middle; /* Alinha melhor com o texto */
+}
+
+.form-radio:checked {
+  background-color: #3b82f6; /* Azul mais escuro quando selecionado */
+  border-color: #2563eb;
+}
+
+.form-radio:focus {
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5); /* Sombra de foco */
+}
+
+/* Estilo para o container principal para garantir que ocupe a largura total e centralize o conteúdo */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Melhorando a aparência dos acordeões */
+.border.rounded-lg.p-4.mb-4.shadow-sm {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.border.rounded-lg.p-4.mb-4.shadow-sm:hover {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Estilo para o painel de recomendações */
+.shadow-lg {
+  box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+}
+
+/* Adicionar um pouco mais de espaço e estilo aos títulos das seções */
+h2.text-2xl.font-semibold.text-gray-800.mb-6 {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb; /* Linha sutil abaixo do título da seção */
+}
+
+/* Estilo para o botão de limpar */
+.bg-red-500:hover {
+  background-color: #c53030; /* Um vermelho mais escuro no hover */
+}
+
+/* Estilo para o footer */
+footer.text-center.mt-12.py-6.border-t {
+  border-top-color: #e5e7eb;
+}
+
+textarea {
+  @apply resize-none;
+  @apply focus:ring-2 focus:ring-blue-500 focus:border-blue-500;
+  @apply transition-all duration-200;
+}
+
+input[type="radio"] {
+  @apply cursor-pointer;
+  @apply w-4 h-4;
+  @apply text-blue-600;
+  @apply focus:ring-blue-500;
+  @apply border-gray-300;
+}
+
+select {
+  @apply cursor-pointer;
+  @apply focus:ring-2 focus:ring-blue-500 focus:border-blue-500;
+  @apply transition-all duration-200;
+}
+
+button {
+  @apply transition-all duration-200;
+  @apply focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+}
+
+/* Animações para mensagens */
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+.fixed {
+  animation: slideIn 0.3s ease-out;
+}
+
+.fixed.hiding {
+  animation: slideOut 0.3s ease-out;
+}
+
+/* Estilo para o progresso */
+.progress-bar {
+  @apply h-2 bg-gray-200 rounded-full overflow-hidden;
+}
+
+.progress-bar-fill {
+  @apply h-full bg-blue-500 transition-all duration-300;
+}
+
+/* Estilo para os cards de perguntas */
+.question-card {
+  @apply transition-all duration-200;
+}
+
+.question-card:hover {
+  @apply shadow-md;
+}
+
+/* Estilo para os botões de ação */
+.action-button {
+  @apply px-4 py-2 rounded font-medium;
+  @apply focus:outline-none focus:ring-2 focus:ring-offset-2;
+}
+
+.action-button.primary {
+  @apply bg-blue-500 text-white hover:bg-blue-600 focus:ring-blue-500;
+}
+
+.action-button.danger {
+  @apply bg-red-500 text-white hover:bg-red-600 focus:ring-red-500;
+}
+
