@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+    /* Kolibra Colors */
+    --kolibra-blue: 211 99% 27%; /* #01468b */
+    --kolibra-orange: 27 93% 55%; /* #f77c1e */
+    --kolibra-white: 0 0% 100%; /* #ffffff */
+    --kolibra-light-blue: 211 45% 64%; /* #80a2c5 for pizza chart */
+    --kolibra-light-orange: 27 93% 75%; /* for pizza chart */
+    --kolibra-gray-light: 0 0% 96%; /* Light gray for backgrounds */
+    --kolibra-gray-dark: 222.2 84% 15%; /* Dark gray for text, slightly darker than default foreground */
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: var(--kolibra-blue);
+    --sidebar-primary-foreground: var(--kolibra-white);
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: var(--kolibra-orange);
+
+    --background: var(--kolibra-white);
+    --foreground: var(--kolibra-gray-dark);
+
+    --card: var(--kolibra-white);
+    --card-foreground: var(--kolibra-gray-dark);
+
+    --popover: var(--kolibra-white);
+    --popover-foreground: var(--kolibra-gray-dark);
+
+    --primary: var(--kolibra-blue);
+    --primary-foreground: var(--kolibra-white);
+
+    --secondary: var(--kolibra-orange);
+    --secondary-foreground: var(--kolibra-white);
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: var(--kolibra-orange);
+    --accent-foreground: var(--kolibra-white);
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: var(--kolibra-white);
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: var(--kolibra-orange);
+
+    --chart-1: var(--kolibra-blue);
+    --chart-2: var(--kolibra-orange);
+    --chart-3: var(--kolibra-light-blue);
+    --chart-4: var(--kolibra-light-orange);
+    --chart-5: 211 99% 45%; /* A slightly lighter blue */
+  }
+
+  .dark {
+    /* Adjust dark mode if necessary, for now keep it simple */
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: var(--kolibra-blue);
+    --sidebar-primary-foreground: var(--kolibra-white);
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: var(--kolibra-orange);
+
+    --background: 222.2 84% 4.9%;
+    --foreground: var(--kolibra-white);
+    --card: 222.2 84% 4.9%;
+    --card-foreground: var(--kolibra-white);
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: var(--kolibra-white);
+    --primary: var(--kolibra-blue);
+    --primary-foreground: var(--kolibra-white);
+    --secondary: var(--kolibra-orange);
+    --secondary-foreground: var(--kolibra-white);
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: var(--kolibra-orange);
+    --accent-foreground: var(--kolibra-white);
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: var(--kolibra-white);
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: var(--kolibra-orange);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    scroll-behavior: smooth;
+  }
+}
+
